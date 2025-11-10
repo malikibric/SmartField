@@ -1,0 +1,194 @@
+{
+  "vis": {
+    "value": 24135.087890625,
+    "unit": "m",
+    "name": "Visibility",
+    "level": "surface"
+  },
+  "gust": {
+    "value": 0.8084262609481812,
+    "unit": "m s**-1",
+    "name": "Wind speed (gust)",
+    "level": "surface"
+  },
+  "hindex": {
+    "value": 6.0,
+    "unit": "Numeric",
+    "name": "Haines Index",
+    "level": "surface"
+  },
+  "pritisak_povrsine": {
+    "value": 977.298671875,
+    "unit": "hPa",
+    "name": "Surface pressure",
+    "level": "surface"
+  },
+  "orog": {
+    "value": 300.6993713378906,
+    "unit": "m",
+    "name": "Orography",
+    "level": "surface"
+  },
+  "t": {
+    "value": 18.561029052734398,
+    "unit": "°C",
+    "name": "Temperature",
+    "level": "surface"
+  },
+  "cnwat": {
+    "value": 0.0,
+    "unit": "kg m**-2",
+    "name": "Plant canopy surface water",
+    "level": "surface"
+  },
+  "sdwe": {
+    "value": 0.0,
+    "unit": "kg m**-2",
+    "name": "Water equivalent of accumulated snow depth (deprecated)",
+    "level": "surface"
+  },
+  "sde": {
+    "value": 0.0,
+    "unit": "m",
+    "name": "Snow depth",
+    "level": "surface"
+  },
+  "sithick": {
+    "value": 0.0,
+    "unit": "m",
+    "name": "Sea ice thickness",
+    "level": "surface"
+  },
+  "cpofp": {
+    "value": -50.00000762939453,
+    "unit": "%",
+    "name": "Percent frozen precipitation",
+    "level": "surface"
+  },
+  "prate": {
+    "value": 0.0,
+    "unit": "kg m**-2 s**-1",
+    "name": "Precipitation rate",
+    "level": "surface"
+  },
+  "csnow": {
+    "value": 0.0,
+    "unit": "(Code table 4.222)",
+    "name": "Categorical snow",
+    "level": "surface"
+  },
+  "cicep": {
+    "value": 0.0,
+    "unit": "(Code table 4.222)",
+    "name": "Categorical ice pellets",
+    "level": "surface"
+  },
+  "cfrzr": {
+    "value": 0.0,
+    "unit": "(Code table 4.222)",
+    "name": "Categorical freezing rain",
+    "level": "surface"
+  },
+  "crain": {
+    "value": 0.0,
+    "unit": "(Code table 4.222)",
+    "name": "Categorical rain",
+    "level": "surface"
+  },
+  "fsr": {
+    "value": 0.3034400939941406,
+    "unit": "m",
+    "name": "Forecast surface roughness",
+    "level": "surface"
+  },
+  "fricv": {
+    "value": 0.15199999511241913,
+    "unit": "m s**-1",
+    "name": "Frictional velocity",
+    "level": "surface"
+  },
+  "veg": {
+    "value": 34.70000076293945,
+    "unit": "%",
+    "name": "Vegetation",
+    "level": "surface"
+  },
+  "slt": {
+    "value": 9.0,
+    "unit": "(Code table 4.213)",
+    "name": "Soil type",
+    "level": "surface"
+  },
+  "wilt": {
+    "value": 0.10319999605417252,
+    "unit": "Fraction",
+    "name": "Wilting Point",
+    "level": "surface"
+  },
+  "fldcp": {
+    "value": 0.3610000014305115,
+    "unit": "Fraction",
+    "name": "Field Capacity",
+    "level": "surface"
+  },
+  "SUNSD": {
+    "value": 10800.0,
+    "unit": "s",
+    "name": "Sunshine Duration",
+    "level": "surface"
+  },
+  "lftx": {
+    "value": -265.60191717147825,
+    "unit": "°C",
+    "name": "Surface lifted index",
+    "level": "surface"
+  },
+  "cape": {
+    "value": 0.0,
+    "unit": "J kg**-1",
+    "name": "Convective available potential energy",
+    "level": "surface"
+  },
+  "cin": {
+    "value": -0.47607421875,
+    "unit": "J kg**-1",
+    "name": "Convective inhibition",
+    "level": "surface"
+  },
+  "lftx4": {
+    "value": -265.74309101104734,
+    "unit": "°C",
+    "name": "Best (4-layer) lifted index",
+    "level": "surface"
+  },
+  "unknown": {
+    "value": 891.0916748046875,
+    "unit": "unknown",
+    "name": "unknown",
+    "level": "surface"
+  },
+  "lsm": {
+    "value": 1.0,
+    "unit": "(0 - 1)",
+    "name": "Land-sea mask",
+    "level": "surface"
+  },
+  "siconc": {
+    "value": 0.0,
+    "unit": "(0 - 1)",
+    "name": "Sea ice area fraction",
+    "level": "surface"
+  },
+  "refc": {
+    "value": -20.000003814697266,
+    "unit": "dB",
+    "name": "Maximum/Composite radar reflectivity",
+    "level": "atmosphere"
+  },
+  "oblacnost": {
+    "value": 1.2999999523162842,
+    "unit": "%",
+    "name": "Total Cloud Cover",
+    "level": "atmosphere"
+  }
+}

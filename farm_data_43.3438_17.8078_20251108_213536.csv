@@ -1,0 +1,33 @@
+varijabla,naziv,vrijednost,jedinica
+vis,Visibility,24135.087890625,m
+gust,Wind speed (gust),0.8084262609481812,m s**-1
+hindex,Haines Index,6.0,Numeric
+pritisak_povrsine,Surface pressure,977.298671875,hPa
+orog,Orography,300.6993713378906,m
+t,Temperature,18.561029052734398,°C
+cnwat,Plant canopy surface water,0.0,kg m**-2
+sdwe,Water equivalent of accumulated snow depth (deprecated),0.0,kg m**-2
+sde,Snow depth,0.0,m
+sithick,Sea ice thickness,0.0,m
+cpofp,Percent frozen precipitation,-50.00000762939453,%
+prate,Precipitation rate,0.0,kg m**-2 s**-1
+csnow,Categorical snow,0.0,(Code table 4.222)
+cicep,Categorical ice pellets,0.0,(Code table 4.222)
+cfrzr,Categorical freezing rain,0.0,(Code table 4.222)
+crain,Categorical rain,0.0,(Code table 4.222)
+fsr,Forecast surface roughness,0.3034400939941406,m
+fricv,Frictional velocity,0.15199999511241913,m s**-1
+veg,Vegetation,34.70000076293945,%
+slt,Soil type,9.0,(Code table 4.213)
+wilt,Wilting Point,0.10319999605417252,Fraction
+fldcp,Field Capacity,0.3610000014305115,Fraction
+SUNSD,Sunshine Duration,10800.0,s
+lftx,Surface lifted index,-265.60191717147825,°C
+cape,Convective available potential energy,0.0,J kg**-1
+cin,Convective inhibition,-0.47607421875,J kg**-1
+lftx4,Best (4-layer) lifted index,-265.74309101104734,°C
+unknown,unknown,891.0916748046875,unknown
+lsm,Land-sea mask,1.0,(0 - 1)
+siconc,Sea ice area fraction,0.0,(0 - 1)
+refc,Maximum/Composite radar reflectivity,-20.000003814697266,dB
+oblacnost,Total Cloud Cover,1.2999999523162842,%
