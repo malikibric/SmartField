@@ -53,7 +53,7 @@ Smart Field reduces inequalities by giving small farmers free access to AI and s
 - Ensuring **AI-generated recommendations** were accurate and meaningful for diverse regions  
 - Designing a **user-friendly frontend** that simplifies complex environmental data  
 - Balancing **technical complexity** with ease of use for non-technical users  
-
+-- REMINDER THAT I DELETED ORIGINAL GIBR2 FILE BECAUSE OF FILE SIZE, but there is extracted json and csv
 ---
 
 ## 📚 What We Learned
