@@ -65,6 +65,10 @@ Throughout building Smart Field, we learned to:
 
 ---
 
+Documentation can be found here: https://docs.google.com/document/d/1kc-hT8DfLuSM2BV6jmFQAbUzxXptyhbuI9VwouP1wVs/edit?usp=sharing
+
+--
+
 ## 🧩 Getting Started
 
 ### 🔧 Prerequisites
