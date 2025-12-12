@@ -18,7 +18,7 @@ import requests
 load_dotenv()
 
 # OpenWeatherMap API Key
-OPENWEATHER_API_KEY = "9172da3f581beb6fb192e6eadfc534a9"
+OPENWEATHER_API_KEY = "-"
 
 # AI Model imports
 try:
